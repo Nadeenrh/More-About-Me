@@ -1,7 +1,7 @@
 # More-About-Me
 
  💫 
-I am a third year CyberSecurity student at York University.<br>I love to socialize, meet new people, join hackathons or competitions and collecting swag!
+I am a third year CyberSecurity student at York University.<br>I love to socialize, meet new people, join hackathons or competitions and collect swag!
 
 
 # 💻 Tech Stack:
